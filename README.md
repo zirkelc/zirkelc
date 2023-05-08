@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software engineer at heart with a passion for all things digital. 
+
+[`🧑🏼‍💻 zirkelc.dev`](https://zirkelc.dev/) [`📫 in/chris`](https://www.linkedin.com/in/christian-zirkel/) [`💬 dev/zirkelc`](https://dev.to/zirkelc) [`🐥 @zirkelc_`](https://twitter.com/zirkelc_) 
+
+Feel free to explore my work and connect with me.
+
 <!--
 **zirkelc/zirkelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
