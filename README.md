@@ -19,18 +19,17 @@ Here are some of my own projects and contributions to other open source projects
 - [Blog zirkelc.dev](https://github.com/zirkelc/zirkelc.dev)
 
 **Pull Requests**
-- [Add support for AWS DynamoDB session storage for Shopify JS API](https://github.com/Shopify/shopify-app-js/pull/167)
-- [Fix for Neo4j APOC prodedure](https://github.com/neo4j-contrib/neo4j-apoc-procedures/pull/3152)
-- [Add support for path selctors in Cytoscape.js](https://github.com/cytoscape/cytoscape.js/pull/2952)
-- [Add support for InputTransformer in Serverless Step Functions](https://github.com/serverless-operations/serverless-step-functions/pull/448)
-- [Add TypeScript as linter to GitHub Lint Action](https://github.com/wearerequired/lint-action/pull/575)
-- [Add support for equations in Notion to Markdown](https://github.com/souvikinator/notion-to-md/pull/66)
-- [Add support for nodes and edges in event handler in Neovis.js](https://github.com/neo4j-contrib/neovis.js/pull/127)
-
+- [PNPM: Add reporter option to hide prefix from concurrent outputs](https://github.com/pnpm/pnpm/pull/7086)
+- [Shopif JS: Add support for AWS DynamoDB session storage](https://github.com/Shopify/shopify-app-js/pull/167)
+- [Neo4j APOC: Fix for prodedure for JSON export](https://github.com/neo4j-contrib/neo4j-apoc-procedures/pull/3152)
+- [Cytoscape.js: Add support for path selctors](https://github.com/cytoscape/cytoscape.js/pull/2952)
+- [Serverless-Step-Functions: Add support for InputTransformer in veents](https://github.com/serverless-operations/serverless-step-functions/pull/448)
+- [GitHub Lint Action: Add TypeScript as linter](https://github.com/wearerequired/lint-action/pull/575)
+- [Notion-to-Markdown: Add support for markdown equations](https://github.com/souvikinator/notion-to-md/pull/66)
+- [Neovis.js: Add support for nodes and edges in event handler](https://github.com/neo4j-contrib/neovis.js/pull/127)
 
 <!--
 https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66693
-https://github.com/pnpm/pnpm/pull/7086
 
 
 **zirkelc/zirkelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
