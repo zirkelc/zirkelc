@@ -20,7 +20,7 @@ Here are some of my own projects and contributions to other open source projects
 
 **Pull Requests**
 - [PNPM: Add reporter option to hide prefix from concurrent outputs](https://github.com/pnpm/pnpm/pull/7086)
-- [Serverless-Step-Functions: Add type declarations to DefinetlyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66693)
+- [Serverless-Step-Functions: Add type declarations to DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66693)
 - [Shopif JS: Add support for AWS DynamoDB session storage](https://github.com/Shopify/shopify-app-js/pull/167)
 - [Neo4j APOC: Fix for prodedure for JSON export](https://github.com/neo4j-contrib/neo4j-apoc-procedures/pull/3152)
 - [Cytoscape.js: Add support for path selctors](https://github.com/cytoscape/cytoscape.js/pull/2952)
