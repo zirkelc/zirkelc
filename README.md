@@ -15,7 +15,6 @@ Here are some of my own projects and contributions to other open source projects
 - [AdaGPT](https://github.com/zirkelc/AdaGPT)
 - [Chrome Debugger Node](https://github.com/zirkelc/chrome-debugger-node) ![npm](https://img.shields.io/npm/dt/create-chrome-debugger)
 - [Serverless Exports Plugin](https://github.com/zirkelc/serverless-exports-plugin) ![npm](https://img.shields.io/npm/dt/serverless-exports-plugin)
-- [Monte Carlo Pi](https://github.com/zirkelc/monte-carlo-pi)
 - [Blog zirkelc.dev](https://github.com/zirkelc/zirkelc.dev)
 
 **Pull Requests**
