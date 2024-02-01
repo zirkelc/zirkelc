@@ -1,8 +1,15 @@
+<p align="center">
+  <samp>
+    <a href="https://zirkelc.dev">blog</a> /
+    <a href="https://twitter.com/zirkelc_">twitter</a> /
+    <a href="https://dev.to/zirkelc">dev.to</a> /
+    <a href="https://www.linkedin.com/in/christian-zirkel/">linkedin</a>
+  </samp>
+</p>
+
 ### Hi there 👋
 
 I'm a software engineer at heart with a passion for all things digital. 
-
-[`🧑🏼‍💻 zirkelc.dev`](https://zirkelc.dev/) [`📫 in/chris`](https://www.linkedin.com/in/christian-zirkel/) [`💬 dev/zirkelc`](https://dev.to/zirkelc) [`🐥 @zirkelc_`](https://twitter.com/zirkelc_) 
 
 Feel free to explore my work and connect with me.
 
