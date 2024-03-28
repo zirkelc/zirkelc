@@ -13,17 +13,18 @@ I'm a software engineer at heart with a passion for all things digital.
 
 Feel free to explore my work and connect with me.
 
-### Contributions to Open Source
-Here are some of my own projects and contributions to other open source projects:
+### Open Projects
+Here are some of my own projects:
 
-**Projects**
 - [AWS SigV4 Fetch](https://github.com/zirkelc/aws-sigv4-fetch) ![npm](https://img.shields.io/npm/dt/aws-sigv4-fetch)
+- [Amazon S3 URL](https://github.com/zirkelc/amazon-s3-url) ![npm](https://img.shields.io/npm/dt/amazon-s3-url)
 - [Git Pull Run](https://github.com/zirkelc/git-pull-run) ![npm](https://img.shields.io/npm/dt/git-pull-run)
-- [AdaGPT](https://github.com/zirkelc/AdaGPT)
 - [Chrome Debugger Node](https://github.com/zirkelc/chrome-debugger-node) ![npm](https://img.shields.io/npm/dt/create-chrome-debugger)
 - [Serverless Exports Plugin](https://github.com/zirkelc/serverless-exports-plugin) ![npm](https://img.shields.io/npm/dt/serverless-exports-plugin)
+- [AdaGPT](https://github.com/zirkelc/AdaGPT) 
 - [Blog zirkelc.dev](https://github.com/zirkelc/zirkelc.dev)
 
+<!--
 **Pull Requests**
 - [PNPM: Add reporter option to hide prefix from concurrent outputs](https://github.com/pnpm/pnpm/pull/7086)
 - [Serverless-Step-Functions: Add type declarations to DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66693)
@@ -34,7 +35,7 @@ Here are some of my own projects and contributions to other open source projects
 - [GitHub Lint Action: Add TypeScript as linter](https://github.com/wearerequired/lint-action/pull/575)
 - [Notion-to-Markdown: Add support for markdown equations](https://github.com/souvikinator/notion-to-md/pull/66)
 - [Neovis.js: Add support for nodes and edges in event handler](https://github.com/neo4j-contrib/neovis.js/pull/127)
-
+-->
 <!--
 
 
