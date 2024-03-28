@@ -23,6 +23,8 @@ Here are some of my own projects:
 - [Serverless Exports Plugin](https://github.com/zirkelc/serverless-exports-plugin) ![npm](https://img.shields.io/npm/dt/serverless-exports-plugin)
 - [AdaGPT](https://github.com/zirkelc/AdaGPT) 
 - [Blog zirkelc.dev](https://github.com/zirkelc/zirkelc.dev)
+- [Highlights](https://zirkelc.github.io/highlights/)
+- [Lambda Readability](https://zirkelc.github.io/lambda-readability/)
 
 <!--
 **Pull Requests**
