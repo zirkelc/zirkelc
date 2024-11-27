@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://zirkelc.dev">blog</a> /
+    <a href="https://bsky.app/profile/zirkelc.dev">bsky</a> /
     <a href="https://twitter.com/zirkelc_">twitter</a> /
     <a href="https://dev.to/zirkelc">dev.to</a> /
     <a href="https://www.linkedin.com/in/christian-zirkel/">linkedin</a>
@@ -9,8 +10,11 @@
 
 ### Hi there 👋
 
-I'm a software engineer at heart with a passion for all things digital. 
+I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https://flyweight.io). 
 
+I love to code and to write about it. Feel free to connect with me on any social media channel.
+
+<!--
 Feel free to explore my work and connect with me.
 
 ### Open Projects
@@ -27,7 +31,7 @@ Here are some of my own projects:
 - [Highlights](https://zirkelc.github.io/highlights/) ![GitHub Repo stars](https://img.shields.io/github/stars/zirkelc/highlights?style=social)
 - [Lambda Readability](https://zirkelc.github.io/lambda-readability/) ![GitHub Repo stars](https://img.shields.io/github/stars/zirkelc/lambda-readability?style=social)
 
-<!--
+
 **Pull Requests**
 - [PNPM: Add reporter option to hide prefix from concurrent outputs](https://github.com/pnpm/pnpm/pull/7086)
 - [Serverless-Step-Functions: Add type declarations to DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66693)
