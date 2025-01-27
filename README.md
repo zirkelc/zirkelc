@@ -12,7 +12,43 @@
 
 I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https://flyweight.io). 
 
-I love to code and to write about it. Feel free to connect with me on any social media channel.
+I try to create useful stuff and put it our there. Let me know if it helped you!
+
+## Stuff
+
+### AWS
+
+- [AWS Signature V4](https://github.com/zirkelc/aws-signature-v4): This project includes two libraries: [aws-sigv4-fetch](https://github.com/zirkelc/aws-signature-v4/tree/main/packages/aws-sigv4-fetch) and [aws-sigv4-sign](https://github.com/zirkelc/aws-signature-v4/tree/main/packages/aws-sigv4-sign), which are used to sign HTTP requests with AWS Signature Version 4 (SigV4).
+
+- [Amazon S3 URL](https://github.com/zirkelc/amazon-s3-url): A simple formatter and parser for the various Amazon S3 URL formats.
+
+- [Middy Store](https://github.com/zirkelc/middy-store): Middleware for AWS Step Functions that automatically stores and retrieves payloads exceeding the 256KB maximum input or output size.
+
+- [Serverless Exports Plugin](https://github.com/zirkelc/serverless-exports-plugin): Exports environment variables and stack outputs from your Serverless project to a local file.
+
+- [Serverless CloudWatch Logs Insights Plugin](https://github.com/zirkelc/serverless-cloudwatch-logs-insights): Automatically creates CloudWatch Logs Insights queries for all Lambda functions in your Serverless project.
+
+### Experiments
+
+- [AdaGPT](https://github.com/zirkelc/AdaGPT): A GitHub Action that responds to comments on issues and pull requests.
+
+- [Highlights](https://github.com/zirkelc/highlights): Extracts highlighted text from images using OpenCV and OCR (Tesseract) directly in the browser, without requiring a backend API. It is based on the original [Python implementation](https://dev.to/zirkelc/extract-highlighted-text-from-a-book-using-python-e15).
+
+- [Lambda Readability](https://github.com/zirkelc/lambda-readability): Extracts readable content from a web page by running Chromium and Readability.js on AWS Lambda.
+
+- [Puppeteer Language Experiment](https://github.com/zirkelc/puppeteer-language-experiment): Tests various methods to change the browser language using Puppeteer with Chrome.
+
+### Testing
+
+- [expect.toMatchPrompt()](https://github.com/zirkelc/expect-match-prompt): An AI prompt matcher for Jest and Vitest.
+
+- [Snapshot Serializers](https://github.com/zirkelc/snapshot-serializers): A collection of snapshot serializers for Jest and Vitest that help manage dynamic values in test snapshots.
+
+### Tools
+
+- [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
+
+- [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
 
 <!--
 Feel free to explore my work and connect with me.
