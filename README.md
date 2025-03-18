@@ -12,7 +12,7 @@
 
 I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https://flyweight.io). 
 
-I try to create useful stuff and put it our there. Let me know if it helped you!
+I like to create stuff and share it!
 
 ## Stuff
 
