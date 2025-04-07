@@ -12,10 +12,6 @@
 
 I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https://flyweight.io). 
 
-I like to create stuff and share it!
-
-## Stuff
-
 ### AWS
 
 - [AWS Signature V4](https://github.com/zirkelc/aws-signature-v4): This project includes two libraries: [aws-sigv4-fetch](https://github.com/zirkelc/aws-signature-v4/tree/main/packages/aws-sigv4-fetch) and [aws-sigv4-sign](https://github.com/zirkelc/aws-signature-v4/tree/main/packages/aws-sigv4-sign), which are used to sign HTTP requests with AWS Signature Version 4 (SigV4).
@@ -38,6 +34,24 @@ I like to create stuff and share it!
 
 - [Puppeteer Language Experiment](https://github.com/zirkelc/puppeteer-language-experiment): Tests various methods to change the browser language using Puppeteer with Chrome.
 
+### GitHub Actions
+
+- [Setup and Install](https://github.com/zirkelc/setup-and-install): Composite action to setup PNPM and Node.js and install dependencies.
+
+- [NPM Publish](https://github.com/zirkelc/npm-publish): Composite action to publish a package to NPM and create a release on GitHub.
+
+### Libraries
+
+- [Millis.js](https://github.com/zirkelc/millis-js): A tiny and dependency-free library for date time arithmetic with a chainable and immutable API.
+
+- [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
+
+### Templates
+
+- [Single Package TypeScript Template](https://github.com/zirkelc/template-single-typescript): Opinionated setup for a single package TypeScript project.
+
+- [Serverless TypeScript Template](https://github.com/zirkelc/template-serverless-typescript): Opinionated setup for a Serverless TypeScript project.
+
 ### Testing
 
 - [expect.toMatchPrompt()](https://github.com/zirkelc/expect-match-prompt): An AI prompt matcher for Jest and Vitest.
@@ -48,7 +62,6 @@ I like to create stuff and share it!
 
 - [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
 
-- [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
 
 <!--
 Feel free to explore my work and connect with me.
