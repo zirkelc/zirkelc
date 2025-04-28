@@ -46,6 +46,8 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
 
+- [Shopify Currencies.js](https://github.com/zirkelc/shopify-currencies.js): A simple wrapper to access Shopify's currency conversion rates from Node.js
+
 ### Templates
 
 - [Single Package TypeScript Template](https://github.com/zirkelc/template-single-typescript): Opinionated setup for a single package TypeScript project.
