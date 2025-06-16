@@ -24,9 +24,13 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Serverless CloudWatch Logs Insights Plugin](https://github.com/zirkelc/serverless-cloudwatch-logs-insights): Automatically creates CloudWatch Logs Insights queries for all Lambda functions in your Serverless project.
 
-### Experiments
+### Hackathons
 
-- [AdaGPT](https://github.com/zirkelc/AdaGPT): A GitHub Action that responds to comments on issues and pull requests.
+- [AdaGPT](https://github.com/zirkelc/AdaGPT): A GitHub Action created for the [GitHub + DEV 2023 Hackathon](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o) with OpenAI integration that responds to comments on issues and pull requests.
+
+- [PromptThis.AI](https://github.com/zirkelc/PromptThis.AI): A Chrome extension created for the [Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/) that seamlessly integrates AI capabilities into your browsing experience.
+
+### Experiments
 
 - [Highlights](https://github.com/zirkelc/highlights): Extracts highlighted text from images using OpenCV and OCR (Tesseract) directly in the browser, without requiring a backend API. It is based on the original [Python implementation](https://dev.to/zirkelc/extract-highlighted-text-from-a-book-using-python-e15).
 
@@ -34,35 +38,40 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Puppeteer Language Experiment](https://github.com/zirkelc/puppeteer-language-experiment): Tests various methods to change the browser language using Puppeteer with Chrome.
 
-### GitHub Actions
-
-- [Setup and Install](https://github.com/zirkelc/setup-and-install): Composite action to setup PNPM and Node.js and install dependencies.
-
-- [NPM Publish](https://github.com/zirkelc/npm-publish): Composite action to publish a package to NPM and create a release on GitHub.
-
-### Libraries
-
-- [Millis.js](https://github.com/zirkelc/millis-js): A tiny and dependency-free library for date time arithmetic with a chainable and immutable API.
+### Shopify 
 
 - [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
 
 - [Shopify Currencies.js](https://github.com/zirkelc/shopify-currencies.js): A simple wrapper to access Shopify's currency conversion rates from Node.js
 
-### Templates
+### Libraries
 
-- [Single Package TypeScript Template](https://github.com/zirkelc/template-single-typescript): Opinionated setup for a single package TypeScript project.
+#### Development
 
-- [Serverless TypeScript Template](https://github.com/zirkelc/template-serverless-typescript): Opinionated setup for a Serverless TypeScript project.
+- [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
 
-### Testing
+#### Testing
 
 - [expect.toMatchPrompt()](https://github.com/zirkelc/expect-match-prompt): An AI prompt matcher for Jest and Vitest.
 
 - [Snapshot Serializers](https://github.com/zirkelc/snapshot-serializers): A collection of snapshot serializers for Jest and Vitest that help manage dynamic values in test snapshots.
 
-### Tools
+#### Utility
 
-- [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
+- [Millis.js](https://github.com/zirkelc/millis-js): A tiny and dependency-free library for date time arithmetic with a chainable and immutable API.
+
+- [Uniquely Typed](https://github.com/zirkelc/uniquely-typed): A library to create opaque types with unique symbols.
+
+- [Create Typed Env](https://github.com/zirkelc/create-typed-env): A library to create a type-safe proxy for accessing environment variables with optional fallback values for developemnt and testing.
+
+
+### GitHub Templates
+
+- [Single Package TypeScript Template](https://github.com/zirkelc/template-single-typescript): Opinionated setup for a single package TypeScript project.
+
+- [Serverless TypeScript Template](https://github.com/zirkelc/template-serverless-typescript): Opinionated setup for a Serverless TypeScript project.
+
+
 
 
 <!--
