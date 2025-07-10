@@ -26,9 +26,11 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 ### Hackathons
 
-- [AdaGPT](https://github.com/zirkelc/AdaGPT): A GitHub Action created for the [GitHub + DEV 2023 Hackathon](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o) with OpenAI integration that responds to comments on issues and pull requests.
+- [Lambdalet.AI](https://github.com/zirkelc/lambdalet): An AI-powered bookmarking and read-it-later service that uses a dynamic javascript bookmark (bookmarklet) to send the current page's HTML to an AWS Lambda function. The Lambda function invokes an LLM to extract the page's main content - ignoring headers, footers and other non-content elements - and saves it to a Notion database.
 
 - [PromptThis.AI](https://github.com/zirkelc/PromptThis.AI): A Chrome extension created for the [Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/) that seamlessly integrates AI capabilities into your browsing experience.
+
+- [AdaGPT](https://github.com/zirkelc/AdaGPT): A GitHub Action created for the [GitHub + DEV 2023 Hackathon](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o) with OpenAI integration that responds to comments on issues and pull requests.
 
 ### Experiments
 
