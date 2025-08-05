@@ -48,6 +48,10 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 ### Libraries
 
+#### Extensions
+
+- [Claude Runner](https://github.com/zirkelc/claude-runner): Simple VSCode extension to run Claude from the context menu on any folder
+
 #### Development
 
 - [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
