@@ -58,6 +58,8 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 #### Testing
 
+- [expect.toMatchSchema()](https://github.com/zirkelc/expect-match-schema?tab=readme-ov-file): Check data against any standard schema (Zod, Valibot, ArkType)
+
 - [expect.toMatchPrompt()](https://github.com/zirkelc/expect-match-prompt): An AI prompt matcher for Jest and Vitest.
 
 - [Snapshot Serializers](https://github.com/zirkelc/snapshot-serializers): A collection of snapshot serializers for Jest and Vitest that help manage dynamic values in test snapshots.
