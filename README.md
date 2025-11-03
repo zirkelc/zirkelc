@@ -18,6 +18,8 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Chunkdown](https://github.com/zirkelc/chunkdown): A tree-based markdown text splitter that understands document structure to create semantically meaningful chunks for RAG applications
 
+- [Chunk Visualizer](https://github.com/zirkelc/chunk-visualizer): A web-based playground to visualize and compare chunks from different text splitting libraries
+
 ### AWS
 
 - [AWS Signature V4](https://github.com/zirkelc/aws-signature-v4): This project includes two libraries: [aws-sigv4-fetch](https://github.com/zirkelc/aws-signature-v4/tree/main/packages/aws-sigv4-fetch) and [aws-sigv4-sign](https://github.com/zirkelc/aws-signature-v4/tree/main/packages/aws-sigv4-sign), which are used to sign HTTP requests with AWS Signature Version 4 (SigV4).
@@ -71,6 +73,8 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 - [Snapshot Serializers](https://github.com/zirkelc/snapshot-serializers): A collection of snapshot serializers for Jest and Vitest that help manage dynamic values in test snapshots.
 
 #### Utility
+
+- [f-strings](https://github.com/zirkelc/f-strings): Template function with embedded if-else conditions and automatic dedentation
 
 - [Millis.js](https://github.com/zirkelc/millis-js): A tiny and dependency-free library for date time arithmetic with a chainable and immutable API.
 
