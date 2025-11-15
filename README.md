@@ -60,6 +60,8 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Claude Terminal Runner](https://github.com/zirkelc/claude-terminal-runner): Simple VSCode extension to run Claude from the context menu on any folder
 
+- [S3 Downloader](https://github.com/zirkelc/vscode-s3-downloader): Quick commands to download and open S3 URIs directly in VSCode
+
 #### Development
 
 - [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
