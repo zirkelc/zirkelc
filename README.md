@@ -28,9 +28,37 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Middy Store](https://github.com/zirkelc/middy-store): Middleware for AWS Step Functions that automatically stores and retrieves payloads exceeding the 256KB maximum input or output size.
 
+- [S3 Downloader](https://github.com/zirkelc/vscode-s3-extension): Quick commands to download and open S3 URIs directly in VSCode
+
 - [Serverless Exports Plugin](https://github.com/zirkelc/serverless-exports-plugin): Exports environment variables and stack outputs from your Serverless project to a local file.
 
 - [Serverless CloudWatch Logs Insights Plugin](https://github.com/zirkelc/serverless-cloudwatch-logs-insights): Automatically creates CloudWatch Logs Insights queries for all Lambda functions in your Serverless project.
+
+### Shopify 
+
+- [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
+
+- [Shopify Currencies.js](https://github.com/zirkelc/shopify-currencies.js): A simple wrapper to access Shopify's currency conversion rates from Node.js
+
+### Development & Testing
+
+- [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
+
+- [expect.toMatchSchema()](https://github.com/zirkelc/expect-match-schema): Check data against any standard schema (Zod, Valibot, ArkType)
+
+- [expect.toMatchPrompt()](https://github.com/zirkelc/expect-match-prompt): An AI prompt matcher for Jest and Vitest.
+
+- [Snapshot Serializers](https://github.com/zirkelc/snapshot-serializers): A collection of snapshot serializers for Jest and Vitest that help manage dynamic values in test snapshots.
+
+### Libraries
+
+- [f-strings](https://github.com/zirkelc/f-strings): Template function with embedded if-else conditions and automatic dedentation
+
+- [Millis.js](https://github.com/zirkelc/millis-js): A tiny and dependency-free library for date time arithmetic with a chainable and immutable API.
+
+- [Uniquely Typed](https://github.com/zirkelc/uniquely-typed): A library to create opaque types with unique symbols.
+
+- [Create Typed Env](https://github.com/zirkelc/create-typed-env): A library to create a type-safe proxy for accessing environment variables with optional fallback values for developemnt and testing.
 
 ### Hackathons
 
@@ -48,46 +76,10 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Puppeteer Language Experiment](https://github.com/zirkelc/puppeteer-language-experiment): Tests various methods to change the browser language using Puppeteer with Chrome.
 
-### Shopify 
-
-- [Shopify Search Query Builder](https://github.com/zirkelc/shopify-search-query): A tool for constructing queries for Shopify's GraphQL API search syntax.
-
-- [Shopify Currencies.js](https://github.com/zirkelc/shopify-currencies.js): A simple wrapper to access Shopify's currency conversion rates from Node.js
-
-### Libraries
-
-#### Extensions
-
 - [Claude Terminal Runner](https://github.com/zirkelc/claude-terminal-runner): Simple VSCode extension to run Claude from the context menu on any folder
-
-- [S3 Downloader](https://github.com/zirkelc/vscode-s3-extension): Quick commands to download and open S3 URIs directly in VSCode
-
-#### Development
-
-- [Git Pull Run](https://github.com/zirkelc/git-pull-run): Automatically runs commands like `npm install` when fetching changes from git, but only if certain files have been modified.
-
-#### Testing
-
-- [expect.toMatchSchema()](https://github.com/zirkelc/expect-match-schema): Check data against any standard schema (Zod, Valibot, ArkType)
-
-- [expect.toMatchPrompt()](https://github.com/zirkelc/expect-match-prompt): An AI prompt matcher for Jest and Vitest.
-
-- [Snapshot Serializers](https://github.com/zirkelc/snapshot-serializers): A collection of snapshot serializers for Jest and Vitest that help manage dynamic values in test snapshots.
-
-#### Utility
-
-- [f-strings](https://github.com/zirkelc/f-strings): Template function with embedded if-else conditions and automatic dedentation
-
-- [Millis.js](https://github.com/zirkelc/millis-js): A tiny and dependency-free library for date time arithmetic with a chainable and immutable API.
-
-- [Uniquely Typed](https://github.com/zirkelc/uniquely-typed): A library to create opaque types with unique symbols.
-
-- [Create Typed Env](https://github.com/zirkelc/create-typed-env): A library to create a type-safe proxy for accessing environment variables with optional fallback values for developemnt and testing.
-
 
 ### GitHub Templates
 
 - [Single Package TypeScript Template](https://github.com/zirkelc/template-single-typescript): Opinionated setup for a single package TypeScript project.
 
 - [Serverless TypeScript Template](https://github.com/zirkelc/template-serverless-typescript): Opinionated setup for a Serverless TypeScript project.
-
