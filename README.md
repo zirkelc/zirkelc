@@ -14,7 +14,9 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 ### AI
 
-- [AI SDK Retry](https://github.com/zirkelc/ai-retry): Intelligent retry and fallback mechanisms for AI SDK models
+- [AI Retry](https://github.com/zirkelc/ai-retry): Intelligent retry and fallback mechanisms for AI SDK models
+
+- [AI Filter Stream](https://github.com/zirkelc/ai-filter-stream): Filter UI messages streaming to the client 
 
 - [Chunkdown](https://github.com/zirkelc/chunkdown): A tree-based markdown text splitter that understands document structure to create semantically meaningful chunks for RAG applications
 
