@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
     <a href="https://zirkelc.dev">blog</a> /
-    <a href="https://bsky.app/profile/zirkelc.dev">bsky</a> /
     <a href="https://twitter.com/zirkelc_">twitter</a> /
     <a href="https://dev.to/zirkelc">dev.to</a> /
     <a href="https://www.linkedin.com/in/christian-zirkel/">linkedin</a>
