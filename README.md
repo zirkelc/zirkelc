@@ -89,5 +89,4 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [Serverless TypeScript Template](https://github.com/zirkelc/template-serverless-typescript): Opinionated setup for a Serverless TypeScript project.
 
-- [VSCode Extension Template](https://github.com/zirkelc/template-vscode-extension): Opinionated setup for a VSCode extension with TypeScript, esbuild, vitest, and oxlint.
-- 
+- [VSCode Extension Template](https://github.com/zirkelc/template-vscode-extension): Opinionated setup for a VSCode extension with TypeScript.
