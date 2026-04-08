@@ -85,7 +85,7 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 ### GitHub Templates
 
-- [Single Package TypeScript Template](https://github.com/zirkelc/template-single-typescript): Opinionated setup for a single package TypeScript project.
+- [Package TypeScript Template](https://github.com/zirkelc/template-typescript-package): Opinionated setup for a single package TypeScript project.
 
 - [Serverless TypeScript Template](https://github.com/zirkelc/template-serverless-typescript): Opinionated setup for a Serverless TypeScript project.
 
