@@ -17,9 +17,11 @@ I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https:/
 
 - [AI Tool Set](https://github.com/zirkelc/ai-tool-set): Manage tool activations with type-safe, chainable tool sets
 
-- [AI Stream Utils](https://github.com/zirkelc/ai-stream-utils): Filter and transform UI messages while streaming to the client
+- [AI Test Kit](https://github.com/zirkelc/ai-test-kit): Mock models, content builders and stream helpers for testing AI SDK apps
 
 - [AI Resumable Stream](https://github.com/zirkelc/ai-resumable-stream): Resume and stop UI messages streams
+
+- [AI Stream Utils](https://github.com/zirkelc/ai-stream-utils): Filter and transform UI messages while streaming to the client
 
 - [AI Assert Schema](https://github.com/zirkelc/ai-assert-schema): Assert schemas (Zod, ArkType, JSON schema) for compatibility against your AI models 
 
