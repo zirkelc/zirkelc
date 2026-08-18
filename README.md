@@ -7,19 +7,15 @@
   </samp>
 </p>
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Chris, a software engineer at heart and co-founder of [flyweight.io](https://flyweight.io). 
 
-Projects are grouped by topic, tagged by type: `npm` `chrome` `vscode` `plugin` `action` `cli` `web`
+## Projects
 
-### Featured
+Here are some of my favorite projects I built over the years.
 
-Start here. The ones people use most and I work on most.
-
-- **[AI Retry](https://github.com/zirkelc/ai-retry)** `npm`: Intelligent retry and fallback mechanisms for AI SDK models
-- **[AWS Signature V4](https://github.com/zirkelc/aws-signature-v4)** `npm`: Sign HTTP requests with AWS Signature Version 4 (SigV4)
-- **[Chunkdown](https://github.com/zirkelc/chunkdown)** `npm`: A tree-based markdown text splitter for RAG applications
+Projects are grouped by topic and tagged by type.
 
 ### AI
 
