@@ -30,6 +30,7 @@ Building blocks for apps that talk to LLMs, most of them built around the [AI SD
 - [Chunkdown](https://github.com/zirkelc/chunkdown) `npm`: A tree-based markdown text splitter that understands document structure to create semantically meaningful chunks for RAG applications
 - [Chunk Visualizer](https://github.com/zirkelc/chunk-visualizer) `web`: A web-based playground to visualize and compare chunks from different text splitting libraries
 - [Agent Journal](https://github.com/zirkelc/agent-journal) `plugin`: A journal written by your agent, autonomously. It records decisions and milestones as local markdown files
+- [Skills](https://github.com/zirkelc/skills): My personal directory of agent skills, straight from my `.claude` directory
 
 ### AWS
 
