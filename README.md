@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://x.com/zirkelc_"><img src="https://img.shields.io/badge/Follow_on_X-30363D?style=flat-square&logo=x&logoColor=white" alt="Follow on X"></a>
-  <a href="https://www.linkedin.com/in/christian-zirkel/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-30363D?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+ICA8cGF0aCBkPSJNMCAxLjE0NkMwIC41MTMuNTI2IDAgMS4xNzUgMGgxMy42NUMxNS40NzQgMCAxNiAuNTEzIDE2IDEuMTQ2djEzLjcwOGMwIC42MzMtLjUyNiAxLjE0Ni0xLjE3NSAxLjE0NkgxLjE3NUMuNTI2IDE2IDAgMTUuNDg3IDAgMTQuODU0em00Ljk0MyAxMi4yNDhWNi4xNjlIMi41NDJ2Ny4yMjV6bS0xLjItOC4yMTJjLjgzNyAwIDEuMzU4LS41NTQgMS4zNTgtMS4yNDgtLjAxNS0uNzA5LS41Mi0xLjI0OC0xLjM0Mi0xLjI0OFMyLjQgMy4yMjYgMi40IDMuOTM0YzAgLjY5NC41MjEgMS4yNDggMS4zMjcgMS4yNDh6bTQuOTA4IDguMjEyVjkuMzU5YzAtLjIxNi4wMTYtLjQzMi4wOC0uNTg2LjE3My0uNDMxLjU2OC0uODc4IDEuMjMyLS44NzguODY5IDAgMS4yMTYuNjYyIDEuMjE2IDEuNjM0djMuODY1aDIuNDAxVjkuMjVjMC0yLjIyLTEuMTg0LTMuMjUyLTIuNzY0LTMuMjUyLTEuMjc0IDAtMS44NDUuNy0yLjE2NSAxLjE5M3YuMDI1aC0uMDE2bC4wMTYtLjAyNVY2LjE2OWgtMi40Yy4wMy42NzggMCA3LjIyNSAwIDcuMjI1eiIvPjwvc3ZnPg==" alt="Connect on LinkedIn"></a>
+<p>
+  <a href="https://x.com/zirkelc"><img src="https://img.shields.io/badge/@zirkelc-30363D?style=flat-square&logo=x&logoColor=white" alt="@zirkelc on X"></a>
+  <a href="https://www.linkedin.com/in/christian-zirkel/"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+ICA8cGF0aCBkPSJNMCAxLjE0NkMwIC41MTMuNTI2IDAgMS4xNzUgMGgxMy42NUMxNS40NzQgMCAxNiAuNTEzIDE2IDEuMTQ2djEzLjcwOGMwIC42MzMtLjUyNiAxLjE0Ni0xLjE3NSAxLjE0NkgxLjE3NUMuNTI2IDE2IDAgMTUuNDg3IDAgMTQuODU0em00Ljk0MyAxMi4yNDhWNi4xNjlIMi41NDJ2Ny4yMjV6bS0xLjItOC4yMTJjLjgzNyAwIDEuMzU4LS41NTQgMS4zNTgtMS4yNDgtLjAxNS0uNzA5LS41Mi0xLjI0OC0xLjM0Mi0xLjI0OFMyLjQgMy4yMjYgMi40IDMuOTM0YzAgLjY5NC41MjEgMS4yNDggMS4zMjcgMS4yNDh6bTQuOTA4IDguMjEyVjkuMzU5YzAtLjIxNi4wMTYtLjQzMi4wOC0uNTg2LjE3My0uNDMxLjU2OC0uODc4IDEuMjMyLS44NzguODY5IDAgMS4yMTYuNjYyIDEuMjE2IDEuNjM0djMuODY1aDIuNDAxVjkuMjVjMC0yLjIyLTEuMTg0LTMuMjUyLTIuNzY0LTMuMjUyLTEuMjc0IDAtMS44NDUuNy0yLjE2NSAxLjE5M3YuMDI1aC0uMDE2bC4wMTYtLjAyNVY2LjE2OWgtMi40Yy4wMy42NzggMCA3LjIyNSAwIDcuMjI1eiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
 </p>
 
 ## Hi, I'm Chris 👋
@@ -11,7 +11,20 @@ Most of my open source starts as a fix for my own work, from AI apps and coding 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/downloads-total-dark.svg"><img alt="npm downloads per month of all my packages, from 205k in May 2025 to 1.07M in October 2026" src="assets/charts/downloads-total-light.svg"></picture>
 
-<p><sub><img src="assets/icons/npm.svg" alt="npm package" title="npm package" height="16" align="absmiddle"> npm package &nbsp; <img src="assets/icons/plugin.svg" alt="Claude plugin" title="Claude plugin" height="16" align="absmiddle"> Claude plugin &nbsp; <img src="assets/icons/skill.svg" alt="Agent skill" title="Agent skill" height="16" align="absmiddle"> Agent skill &nbsp; <img src="assets/icons/cli.svg" alt="CLI" title="CLI" height="16" align="absmiddle"> CLI &nbsp; <img src="assets/icons/web.svg" alt="Web app" title="Web app" height="16" align="absmiddle"> Web app &nbsp; <img src="assets/icons/chrome.svg" alt="Chrome extension" title="Chrome extension" height="16" align="absmiddle"> Chrome extension &nbsp; <img src="assets/icons/macos.svg" alt="macOS app" title="macOS app" height="16" align="absmiddle"> macOS app &nbsp; <img src="assets/icons/ios.svg" alt="iOS app" title="iOS app" height="16" align="absmiddle"> iOS app &nbsp; <img src="assets/icons/vscode.svg" alt="VS Code extension" title="VS Code extension" height="16" align="absmiddle"> VS Code extension &nbsp; <img src="assets/icons/sls.svg" alt="Serverless plugin" title="Serverless plugin" height="16" align="absmiddle"> Serverless plugin &nbsp; <img src="assets/icons/python.svg" alt="Python" title="Python" height="16" align="absmiddle"> Python &nbsp; <img src="assets/icons/examples.svg" alt="Examples" title="Examples" height="16" align="absmiddle"> Examples</sub></p>
+<p>
+  <img src="assets/badges/npm.svg" alt="npm package" height="20">
+  <img src="assets/badges/plugin.svg" alt="Claude plugin" height="20">
+  <img src="assets/badges/skill.svg" alt="Agent skill" height="20">
+  <img src="assets/badges/cli.svg" alt="CLI" height="20">
+  <img src="assets/badges/web.svg" alt="Web app" height="20">
+  <img src="assets/badges/chrome.svg" alt="Chrome extension" height="20">
+  <img src="assets/badges/macos.svg" alt="macOS app" height="20">
+  <img src="assets/badges/ios.svg" alt="iOS app" height="20">
+  <img src="assets/badges/vscode.svg" alt="VS Code extension" height="20">
+  <img src="assets/badges/sls.svg" alt="Serverless plugin" height="20">
+  <img src="assets/badges/python.svg" alt="Python" height="20">
+  <img src="assets/badges/examples.svg" alt="Examples" height="20">
+</p>
 
 ## Latest projects
 
