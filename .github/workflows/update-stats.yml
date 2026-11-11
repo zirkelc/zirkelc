@@ -1,0 +1,40 @@
+name: Update stats
+
+on:
+  schedule:
+    # npm has the full numbers of the last month one day after the month ends.
+    - cron: '0 6 2 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Update chart and README
+        run: node scripts/update-stats.ts
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/charts
+          git commit -m "chore: update npm download stats"
+          git push

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<text x="52" y="16" font-size="13" font-weight="600" fill="#1f2328">npm downloads per month, all packages</text>
+<line x1="52" x2="784" y1="232.0" y2="232.0" stroke="#d1d9e0" stroke-width="1"/>
+<text x="44" y="236.0" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="52" x2="784" y1="192.4" y2="192.4" stroke="#d1d9e0" stroke-width="1"/>
+<text x="44" y="196.4" font-size="11" text-anchor="end" fill="#59636e">250k</text>
+<line x1="52" x2="784" y1="152.8" y2="152.8" stroke="#d1d9e0" stroke-width="1"/>
+<text x="44" y="156.8" font-size="11" text-anchor="end" fill="#59636e">500k</text>
+<line x1="52" x2="784" y1="113.2" y2="113.2" stroke="#d1d9e0" stroke-width="1"/>
+<text x="44" y="117.2" font-size="11" text-anchor="end" fill="#59636e">750k</text>
+<line x1="52" x2="784" y1="73.6" y2="73.6" stroke="#d1d9e0" stroke-width="1"/>
+<text x="44" y="77.6" font-size="11" text-anchor="end" fill="#59636e">1M</text>
+<line x1="52" x2="784" y1="34.0" y2="34.0" stroke="#d1d9e0" stroke-width="1"/>
+<text x="44" y="38.0" font-size="11" text-anchor="end" fill="#59636e">1.25M</text>
+<text x="138.1" y="252" font-size="11" text-anchor="middle" fill="#59636e">Jul 2025</text>
+<text x="267.3" y="252" font-size="11" text-anchor="middle" fill="#59636e">Oct</text>
+<text x="396.5" y="252" font-size="11" text-anchor="middle" fill="#59636e">Jan 2026</text>
+<text x="525.6" y="252" font-size="11" text-anchor="middle" fill="#59636e">Apr</text>
+<text x="654.8" y="252" font-size="11" text-anchor="middle" fill="#59636e">Jul</text>
+<text x="784.0" y="252" font-size="11" text-anchor="middle" fill="#59636e">Oct</text>
+<polygon points="52.0,232.0 52.0,199.6 95.1,193.9 138.1,192.6 181.2,195.1 224.2,192.0 267.3,187.0 310.4,189.7 353.4,191.9 396.5,182.1 439.5,177.7 482.6,160.2 525.6,148.3 568.7,141.8 611.8,128.4 654.8,97.3 697.9,53.4 740.9,78.8 784.0,62.6 784.0,232.0" fill="#2a78d6" fill-opacity="0.16"/>
+<polyline points="52.0,199.6 95.1,193.9 138.1,192.6 181.2,195.1 224.2,192.0 267.3,187.0 310.4,189.7 353.4,191.9 396.5,182.1 439.5,177.7 482.6,160.2 525.6,148.3 568.7,141.8 611.8,128.4 654.8,97.3 697.9,53.4 740.9,78.8 784.0,62.6" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="52.0" cy="199.6" r="4" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<circle cx="784.0" cy="62.6" r="4" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="60.0" y="189.6" font-size="12" fill="#1f2328">205k</text>
+<text x="794.0" y="66.6" font-size="13" font-weight="600" fill="#1f2328">1.07M</text>
+</svg>
