@@ -15,7 +15,7 @@ Most of my open source starts as a fix for my own work, from AI apps and coding 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/downloads-total-dark.svg"><img alt="npm downloads per month of all my packages, from 205k in May 2025 to 1.07M in October 2026" src="assets/charts/downloads-total-light.svg"></picture>
 
-<p><sub><img src="assets/icons/npm.svg" alt="npm package" title="npm package" height="16" align="absmiddle"> npm package &nbsp; <img src="assets/icons/plugin.svg" alt="Claude Code plugin or mod" title="Claude Code plugin or mod" height="16" align="absmiddle"> Claude Code plugin or mod &nbsp; <img src="assets/icons/skill.svg" alt="Agent skill" title="Agent skill" height="16" align="absmiddle"> Agent skill &nbsp; <img src="assets/icons/cli.svg" alt="CLI" title="CLI" height="16" align="absmiddle"> CLI &nbsp; <img src="assets/icons/web.svg" alt="Web app" title="Web app" height="16" align="absmiddle"> Web app &nbsp; <img src="assets/icons/chrome.svg" alt="Chrome extension" title="Chrome extension" height="16" align="absmiddle"> Chrome extension &nbsp; <img src="assets/icons/macos.svg" alt="macOS app" title="macOS app" height="16" align="absmiddle"> macOS app &nbsp; <img src="assets/icons/ios.svg" alt="iOS app" title="iOS app" height="16" align="absmiddle"> iOS app &nbsp; <img src="assets/icons/vscode.svg" alt="VS Code extension" title="VS Code extension" height="16" align="absmiddle"> VS Code extension &nbsp; <img src="assets/icons/sls.svg" alt="Serverless plugin" title="Serverless plugin" height="16" align="absmiddle"> Serverless plugin &nbsp; <img src="assets/icons/action.svg" alt="GitHub Action" title="GitHub Action" height="16" align="absmiddle"> GitHub Action &nbsp; <img src="assets/icons/python.svg" alt="Python" title="Python" height="16" align="absmiddle"> Python &nbsp; <img src="assets/icons/examples.svg" alt="Examples" title="Examples" height="16" align="absmiddle"> Examples</sub></p>
+<p><sub><img src="assets/icons/npm.svg" alt="npm package" title="npm package" height="16" align="absmiddle"> npm package &nbsp; <img src="assets/icons/plugin.svg" alt="Claude plugin" title="Claude plugin" height="16" align="absmiddle"> Claude plugin &nbsp; <img src="assets/icons/skill.svg" alt="Agent skill" title="Agent skill" height="16" align="absmiddle"> Agent skill &nbsp; <img src="assets/icons/cli.svg" alt="CLI" title="CLI" height="16" align="absmiddle"> CLI &nbsp; <img src="assets/icons/web.svg" alt="Web app" title="Web app" height="16" align="absmiddle"> Web app &nbsp; <img src="assets/icons/chrome.svg" alt="Chrome extension" title="Chrome extension" height="16" align="absmiddle"> Chrome extension &nbsp; <img src="assets/icons/macos.svg" alt="macOS app" title="macOS app" height="16" align="absmiddle"> macOS app &nbsp; <img src="assets/icons/ios.svg" alt="iOS app" title="iOS app" height="16" align="absmiddle"> iOS app &nbsp; <img src="assets/icons/vscode.svg" alt="VS Code extension" title="VS Code extension" height="16" align="absmiddle"> VS Code extension &nbsp; <img src="assets/icons/sls.svg" alt="Serverless plugin" title="Serverless plugin" height="16" align="absmiddle"> Serverless plugin &nbsp; <img src="assets/icons/python.svg" alt="Python" title="Python" height="16" align="absmiddle"> Python &nbsp; <img src="assets/icons/examples.svg" alt="Examples" title="Examples" height="16" align="absmiddle"> Examples</sub></p>
 
 ## Latest projects
 
@@ -28,13 +28,10 @@ Exports your Claude Code sessions to a folder and syncs them with git</p>
 <p><a href="https://github.com/zirkelc/claude-quick-actions"><b>Quick Actions</b></a>&nbsp; <a href="https://github.com/zirkelc/claude-quick-actions"><img src="assets/icons/plugin.svg" alt="Claude Code mod" title="Claude Code mod" height="20" align="absmiddle"></a><br>
 One-click buttons above the Claude Code prompt for skills, prompts and shell commands</p>
 
-<p><a href="https://github.com/zirkelc/issue-watch"><b>Issue Watch</b></a>&nbsp; <a href="https://github.com/zirkelc/issue-watch"><img src="assets/icons/npm.svg" alt="npm package" title="npm package" height="20" align="absmiddle"></a> <a href="https://github.com/zirkelc/issue-watch"><img src="assets/icons/cli.svg" alt="CLI" title="CLI" height="20" align="absmiddle"></a><br>
-Tells you when an issue linked in a TODO comment is closed or its PR merged</p>
-
 <p><a href="https://github.com/zirkelc/typoless"><b>Typoless</b></a>&nbsp; <a href="https://github.com/zirkelc/typoless"><img src="assets/icons/macos.svg" alt="macOS app" title="macOS app" height="20" align="absmiddle"></a><br>
 Menu bar app that fixes typos and grammar in any text field. On device, never rewrites</p>
 
-<p><a href="https://github.com/zirkelc/agent-journal"><b>Agent Journal</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-journal"><img src="assets/icons/plugin.svg" alt="Claude Code plugin or mod" title="Claude Code plugin or mod" height="20" align="absmiddle"></a><br>
+<p><a href="https://github.com/zirkelc/agent-journal"><b>Agent Journal</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-journal"><img src="assets/icons/plugin.svg" alt="Claude plugin" title="Claude plugin" height="20" align="absmiddle"></a><br>
 A journal written by your agent. It records decisions and milestones as local markdown files</p>
 
 ## Projects
@@ -74,7 +71,7 @@ Streaming and resumable streaming with tRPC, TanStack Query and AI SDK</p>
 
 Plugins, mods and skills for Claude Code and other coding agents.
 
-<p><a href="https://github.com/zirkelc/agent-journal"><b>Agent Journal</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-journal"><img src="assets/icons/plugin.svg" alt="Claude Code plugin or mod" title="Claude Code plugin or mod" height="20" align="absmiddle"></a><br>
+<p><a href="https://github.com/zirkelc/agent-journal"><b>Agent Journal</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-journal"><img src="assets/icons/plugin.svg" alt="Claude plugin" title="Claude plugin" height="20" align="absmiddle"></a><br>
 A journal written by your agent. It records decisions and milestones as local markdown files</p>
 
 <p><a href="https://github.com/zirkelc/agent-history"><b>Agent History</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-history"><img src="assets/icons/plugin.svg" alt="Claude Code mod" title="Claude Code mod" height="20" align="absmiddle"></a><br>
@@ -86,7 +83,7 @@ One-click buttons above the Claude Code prompt for skills, prompts and shell com
 <p><a href="https://github.com/zirkelc/skills"><b>Skills</b></a>&nbsp; <a href="https://github.com/zirkelc/skills"><img src="assets/icons/skill.svg" alt="Agent skill" title="Agent skill" height="20" align="absmiddle"></a><br>
 My personal directory of agent skills, straight from my .claude directory</p>
 
-<p><a href="https://github.com/zirkelc/agent-plugins"><b>Agent Plugins</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-plugins"><img src="assets/icons/plugin.svg" alt="Claude Code plugin or mod" title="Claude Code plugin or mod" height="20" align="absmiddle"></a><br>
+<p><a href="https://github.com/zirkelc/agent-plugins"><b>Agent Plugins</b></a>&nbsp; <a href="https://github.com/zirkelc/agent-plugins"><img src="assets/icons/plugin.svg" alt="Claude plugin" title="Claude plugin" height="20" align="absmiddle"></a><br>
 Marketplace for all my Claude Code plugins. Add it once, install what you want</p>
 
 ### Apps & extensions
@@ -152,10 +149,11 @@ Query builder for Shopify's GraphQL search syntax</p>
 <p><a href="https://github.com/zirkelc/shopify-currencies.js"><b>Shopify Currencies.js</b></a>&nbsp; <a href="https://github.com/zirkelc/shopify-currencies.js"><img src="assets/icons/npm.svg" alt="npm package" title="npm package" height="20" align="absmiddle"></a><br>
 Access Shopify's currency conversion rates from Node.js</p>
 
-<details>
-<summary><b>Hacks & PoC</b> (9): hackathon builds and experiments, not maintained</summary>
+### Hacks & PoC
 
-<p><a href="https://github.com/zirkelc/AdaGPT"><b>AdaGPT</b></a>&nbsp; <a href="https://github.com/zirkelc/AdaGPT"><img src="assets/icons/action.svg" alt="GitHub Action" title="GitHub Action" height="20" align="absmiddle"></a><br>
+Hackathon builds and experiments. Fun to make, not maintained.
+
+<p><a href="https://github.com/zirkelc/AdaGPT"><b>AdaGPT</b></a><br>
 GitHub Action that answers on issues and PRs (GitHub + DEV 2023 Hackathon)</p>
 
 <p><a href="https://github.com/zirkelc/expect-match-prompt"><b>expect.toMatchPrompt()</b></a>&nbsp; <a href="https://github.com/zirkelc/expect-match-prompt"><img src="assets/icons/npm.svg" alt="npm package" title="npm package" height="20" align="absmiddle"></a><br>
@@ -182,5 +180,3 @@ Extract highlighted text from book photos with OpenCV and Tesseract</p>
 <p><a href="https://github.com/zirkelc/python-transcribe-youtube-whisper"><b>YouTube Whisper</b></a>&nbsp; <a href="https://github.com/zirkelc/python-transcribe-youtube-whisper"><img src="assets/icons/python.svg" alt="Python" title="Python" height="20" align="absmiddle"></a><br>
 Transcribe YouTube videos with Whisper in a notebook</p>
 
-
-</details>
